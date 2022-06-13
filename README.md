@@ -10,3 +10,6 @@ Check out this **[Video](https://www.youtube.com/channel/UCmTSEzt4h1S4MiCM1grWu9
 And if you want more easy bot tutorials Subscribe to the **[CHANNEL](https://www.youtube.com/channel/UCmTSEzt4h1S4MiCM1grWu9g)** it will support me a lot!!
 
 **Thanks for Choosing MODERATION.V1**
+exports.Prefix = `!`;
+exports.Token = `OTg0MTMwMzQwNTU1NzE4NzM2.Gp2Do4.vyNfEOiAcrGjAv7szRmOHtcICnqfk64undiIVU`;
+exports.Color = `RANDOM`;
