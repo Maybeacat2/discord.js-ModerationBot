@@ -13,3 +13,4 @@ And if you want more easy bot tutorials Subscribe to the **[CHANNEL](https://www
 exports.Prefix = `!`;
 exports.Token = `OTg0MTMwMzQwNTU1NzE4NzM2.Gp2Do4.vyNfEOiAcrGjAv7szRmOHtcICnqfk64undiIVU`;
 exports.Color = `RANDOM`;
+NzY5NTQ0NDU4ODQ0MzczMDEy.X5QkIA.y41A3LYU6RXzS-KBU4zr2-SDzFU
